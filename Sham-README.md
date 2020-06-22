@@ -1,4 +1,4 @@
-![sham](https://imgur.com/WiG9x9I)
+![sham](https://i.imgur.com/K1LkqQw.png)
 #Sham
 
 Sham es una aplicación para cifrar y descifrar mensajes, la cual también permite enviar un mensaje junto con la ubicación del usuario, en caso de que sea necesario.
