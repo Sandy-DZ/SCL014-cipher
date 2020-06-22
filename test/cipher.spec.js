@@ -13,6 +13,7 @@ describe('cipher', () => {
       expect(typeof cipher.encode).toBe('function');
     });
     test('should return "HIJKLMNOPQRSTUVWXYZABCDEFG" for "ABCDEFGHIJKLMNOPQRSTUVWXYZ" with offset 33', () => {
+      expect(cipher.encode('33', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')).toBe('HIJKLMNOPQRSTUVWXYZABCDEFG');
       //completa este test!
     });
 
@@ -26,6 +27,7 @@ describe('cipher', () => {
     });
 
     test('should return "ABCDEFGHIJKLMNOPQRSTUVWXYZ" for "HIJKLMNOPQRSTUVWXYZABCDEFG" with offset 33', () => {
+      expect(cipher.decode('33', 'HIJKLMNOPQRSTUVWXYZABCDEFG')).toBe('ABCDEFGHIJKLMNOPQRSTUVWXYZ');
       //completa este test!
     });
 
