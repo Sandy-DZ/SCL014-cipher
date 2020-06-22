@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1592623613546" clover="3.2.0">
-  <project timestamp="1592623613546" name="All files">
+<coverage generated="1592858917020" clover="3.2.0">
+  <project timestamp="1592858917020" name="All files">
     <metrics statements="22" coveredstatements="16" conditionals="16" coveredconditionals="6" methods="2" coveredmethods="2" elements="40" coveredelements="24" complexity="0" loc="22" ncloc="22" packages="1" files="1" classes="1"/>
-    <file name="cipher.js" path="C:\Users\Victo\OneDrive\Documentos\SCL014-cipher\src\cipher.js">
+    <file name="cipher.js" path="C:\Users\Sandy\OneDrive\Escritorio\laboratoria\proyectos\SCL014-cipher\src\cipher.js">
       <metrics statements="22" coveredstatements="16" conditionals="16" coveredconditionals="6" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
